@@ -19,3 +19,4 @@ else:
     pay = h*r
 
 print(pay)
+#fin

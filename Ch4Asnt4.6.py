@@ -1,6 +1,9 @@
-
-# hours = 45
-# rate= 10.5
+# Exercise 4.6: Rewrite your pay computation with time-and-a-half for overtime
+# and create a function called computepay which takes two paramteters (hours and
+# rate).
+# Enter Hours: 45
+# Enter Rate: 10
+# Pay: 475.0
 
 hours = input("Enter hours:")
 rate = input("Enter rate:")

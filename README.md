@@ -1,13 +1,14 @@
-This is a collection of different assigments completed as part of the Programming for Everybody (Getting Started with Python) Coursera course:
+This is a collection of different assignments completed as part of the Programming for Everybody (Getting Started with Python) Coursera course:
 https://www.coursera.org/learn/python?
 
 Textbook: http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
 
-Course rights:
-"The code for this site [PY4E, not Coursera] including the autograders, slides, and course content is all available on GitHub. That means you could make your own copy of the course site, publish it and remix it any way you like."
+Per Course rights:
+"The code for this site [PY4E, not Coursera] including the auto graders, slides, and course content is all available on GitHub. That means you could make your own copy of the course site, publish it and remix it any way you like."
 
 NOTE:
-This is meant to showcase the skills I learned as part of the course. PLEASE DO NOT USE IF IN THE COURSE AS IT IS VALUABLE TO TRY TO WORK THROUGH THE PROBLEMS ON YOUR OWN! Table of contents can be used to quickly find notes and assigments related to a topic. First few chapters are basic coding/python tutorial and not included
+This is meant to showcase the skills I learned as part of the course. PLEASE DO NOT USE IF IN THE COURSE AS IT IS VALUABLE TO TRY TO WORK THROUGH THE PROBLEMS ON YOUR OWN! First few chapters are basic coding/python tutorial and not included.
+
 
 Table of contents:
 

@@ -62,7 +62,8 @@ Table of contents:
 		Tuples are our third and final basic Python data structure. Tuples are a simple version of lists. We often use tuples in conjunction with dictionaries to accomplish multi-step tasks like sorting or looping through all of the data in a dictionary.
 		10 - Tuples
 
-
-
+	Chapter Eleven: Regular Expressions
+		Regular expressions are a very specialized language that allow us to succinctly search strings and extract data from strings. Regular expressions are a language unto themselves. It is not essential to know how to use regular expressions, but they can be quite useful and powerful.
+		11 - R.E.
 
 

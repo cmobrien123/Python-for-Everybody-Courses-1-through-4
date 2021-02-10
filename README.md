@@ -65,5 +65,24 @@ Table of contents:
 	Chapter Eleven: Regular Expressions
 		Regular expressions are a very specialized language that allow us to succinctly search strings and extract data from strings. Regular expressions are a language unto themselves. It is not essential to know how to use regular expressions, but they can be quite useful and powerful.
 		11 - R.E.
+	
+	Chapter Twelve: Networks and Sockets / Programs that Surf the web
+		In this section we learn about the protocols that web browsers use to retrieve documents and web applications use to interact with Application Program Interfaces (APIs) and learn to use Python to retrieve data from web sites and APIs over the Internet.
+		12.1 Networked Technology
+		12.2 Hypertext Transfer Protocol (HTTP)
+		12.3 Unicode Characters and Strings
+		12.4 Retrieving Web Pages
+		12.5 Parsing Web Pages
+	
+	Chapter Thirteen: Webservices (XML and JSON)
+		In this section, we learn how to retrieve and parse XML (eXtensible Markup Language) data as well as Application Program Interfaces / Web Services using the JavaScript Object Notation (JSON) data format.
+		13.1 Data on the Web
+		13.2 eXtensible Markup Language (XML)
+		13.3 XML Schema
+		13.4 Parsing XML
+		13.5 JavaScript Object Notation (JSON)
+		13.6 Service Oriented Approach
+		13.7 Using Application Programming Interfaces
+		13.8 Securing API Requests
 
 
